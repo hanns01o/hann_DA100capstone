@@ -1,5 +1,4 @@
 # GoCard Credit Card Transaction Analysis
-==========================================
 
 ## Project Overview
 This is my capstone project I for a a course I attended, ** DA100: Data Analytics with Tableau and Python**
